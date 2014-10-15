@@ -1,3 +1,21 @@
+# MODEL1207300000: Watterson2012_CholesterolBiosynthesisPathway
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL1207300000.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL1207300000.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -33,4 +51,5 @@ future pharmaceutical therapies intended to target cholesterol production with
 greater specificity and fewer off target effects, suggesting that this can be
 achieved by mimicking the coordinated down-regulation observed in
 immunological responses.
+
 
